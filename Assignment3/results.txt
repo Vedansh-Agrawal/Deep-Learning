@@ -1,0 +1,8 @@
+epoch 1/4, step 2/4, loss  3.9854
+epoch 1/4, step 4/4, loss  3.3517
+epoch 2/4, step 2/4, loss  2.9959
+epoch 2/4, step 4/4, loss  2.7250
+epoch 3/4, step 2/4, loss  2.5456
+epoch 3/4, step 4/4, loss  2.4135
+epoch 4/4, step 2/4, loss  2.3549
+epoch 4/4, step 4/4, loss  2.2913
